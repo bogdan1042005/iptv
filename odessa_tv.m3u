@@ -1,0 +1,45 @@
+﻿#EXTM3U
+#EXTINF:-1,Думская ТВ
+http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr-lq/playlist.m3u8
+#EXTINF:-1,Южная волна
+http://cdn1.live-tv.od.ua:8081/wave/wave-abr-lq/playlist.m3u8
+#EXTINF:-1,1-й городской
+http://cdn1.live-tv.od.ua:8081/1tvod/1tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,3-й цифровой
+http://cdn1.live-tv.od.ua:8081/3tvod/3tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,Репортер - Одесса
+http://cdn1.live-tv.od.ua:8081/31chod/31chod-abr-lq/playlist.m3u8
+#EXTINF:-1,Академия ТВ
+http://cdn1.live-tv.od.ua:8081/36chod/36chod-abr-lq/playlist.m3u8
+#EXTINF:-1,А1
+http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr-lq/playlist.m3u8
+#EXTINF:-1,GTV
+http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr-lq/playlist.m3u8
+#EXTINF:-1,STV
+http://cdn1.live-tv.od.ua:8081/stvod/stvod-abr-lq/playlist.m3u8
+#EXTINF:-1,KTK
+http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr-lq/playlist.m3u8
+#EXTINF:-1,7 канал
+http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr-lq/playlist.m3u8
+#EXTINF:-1,РИО
+http://cdn1.live-tv.od.ua:8081/riood/riood-abr-lq/playlist.m3u8
+#EXTINF:-1,BBB-TV
+http://cdn1.live-tv.od.ua:8081/bbb/bbbtv-abr-lq/playlist.m3u8
+#EXTINF:-1,Круг
+http://cdn1.live-tv.od.ua:8081/krugod/krugod-abr-lq/playlist.m3u8
+#EXTINF:-1,Здоровье
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1,Контакт
+http://cdn10.live-tv.od.ua:8081/kontaktod/kontaktod-abr-lq/playlist.m3u8
+#EXTINF:-1,Суспільне ТБ
+http://cdn10.live-tv.od.ua:8081/odtrkod/odtrkod-abr-lq/playlist.m3u8
+#EXTINF:-1,ТИС-ТВ
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/playlist.m3u8
+#EXTINF:-1,TGTV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test-abr/playlist.m3u8
+#EXTINF:-1,Радио 102,7
+http://cdn1.live-tv.od.ua:8081/1tvod/1rod-abr/playlist.m3u8
+#EXTINF:-1,Местное радио
+http://cdn1.limantv.com:8081/radio/viz/playlist.m3u8
+#EXTINF:-1,Пляж Ланжерон - Немо
+http://cdn1.live-tv.od.ua:8081/nemo/mor-sub/playlist.m3u8
